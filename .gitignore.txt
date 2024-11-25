@@ -1,0 +1,8 @@
+#Ignora la carpeta local_config
+local_config/
+
+#Ignora los archivos temporales.
+*.temp
+
+#Ignora los archivos env.
+*.env
